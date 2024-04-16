@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GLOSSARY>
+  <INFO>
+    <NAME>Glosario</NAME>
+    <INTRO></INTRO>
+    <INTROFORMAT>1</INTROFORMAT>
+    <ALLOWDUPLICATEDENTRIES>0</ALLOWDUPLICATEDENTRIES>
+    <DISPLAYFORMAT>dictionary</DISPLAYFORMAT>
+    <SHOWSPECIAL>1</SHOWSPECIAL>
+    <SHOWALPHABET>1</SHOWALPHABET>
+    <SHOWALL>1</SHOWALL>
+    <ALLOWCOMMENTS>0</ALLOWCOMMENTS>
+    <USEDYNALINK>1</USEDYNALINK>
+    <DEFAULTAPPROVAL>1</DEFAULTAPPROVAL>
+    <GLOBALGLOSSARY>0</GLOBALGLOSSARY>
+    <ENTBYPAGE>10</ENTBYPAGE>
+    <ENTRIES>
+      <ENTRY>
+        <CONCEPT>Actividades</CONCEPT>
+        <DEFINITION>&lt;p&gt;Acciones que el proyecto deberá llevar a cabo para obtener resultados. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Beneficiarios</CONCEPT>
+        <DEFINITION>&lt;p style=&quot;text-align: justify;&quot;&gt;Son el grupo objetivo o población objetivo (beneficiarios directos) más los favorecidos indirectamente por el proyecto. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Ciclo del proyecto</CONCEPT>
+        <DEFINITION>&lt;p&gt;Fases sucesivas de un proyecto:&lt;/p&gt;&lt;p&gt;1. Programación (idea)&lt;/p&gt;&lt;p&gt;2. Identificación (pre-factibilidad)&lt;/p&gt;&lt;p&gt;3. Instrucción (factibilidad)&lt;/p&gt;&lt;p&gt;4. Financiación&lt;/p&gt;&lt;p&gt;5. Ejecución&lt;/p&gt;&lt;p&gt;6. Evaluación  &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Condiciones previas o línea base</CONCEPT>
+        <DEFINITION>&lt;p&gt;Son factores externos existentes y decisiones tomadas antes del inicio del proyecto. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Costo - beneficio</CONCEPT>
+        <DEFINITION>&lt;p&gt;Es la efectividad de un proyecto en función de los costos. Criterio de evaluación que establece la relación entre los recursos asignados y los objetivos alcanzados. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Diagnóstico</CONCEPT>
+        <DEFINITION>&lt;p style=&quot;text-align: justify;&quot;&gt;Tarea práctica (no creativa) consistente en el análisis de los datos obtenidos con el fin de obtener las mediciones necesarias antes de pasar al análisis de las hipótesis. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Efectividad</CONCEPT>
+        <DEFINITION>&lt;p&gt;Medida de grado de éxito de un proyecto o programa en el logro de sus objetivos. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Eficacia</CONCEPT>
+        <DEFINITION>&lt;p&gt;Término que indica en qué medida un programa de asistencia logra sus objetivos. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Eficiencia</CONCEPT>
+        <DEFINITION>&lt;p style=&quot;text-align: justify;&quot;&gt;Nivel de ejecución, administración y organización las actividades de un proyecto de una manera apropiada al menor costo posible para rendir los productos y/o componentes esperados. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Ejecución presupuestal</CONCEPT>
+        <DEFINITION>&lt;p&gt;Proceso de puesta en marcha del presupuesto. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Estudio de factibilidad</CONCEPT>
+        <DEFINITION>&lt;p style=&quot;text-align: justify;&quot;&gt;Posterior al estudio de pre – factibilidad y se profundiza en aquellos aspectos que se consideren relevantes para tomar la decisión de asignar recursos hacia un objetivo determinado. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Estudio de pre - factibilidad</CONCEPT>
+        <DEFINITION>&lt;p&gt;Etapa en la cual se fija con mayor grado de presión los diferentes aspectos y se determina por aplazar, rechazar o pasar a la siguiente etapa de factibilidad. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Evaluación</CONCEPT>
+        <DEFINITION>&lt;p&gt;Análisis independiente y objetivo, del alcance de los objetivos, resultados, actividades y medios utilizados, para llevar a cabo el proyecto. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Evaluación ex - ante</CONCEPT>
+        <DEFINITION>&lt;p style=&quot;text-align: justify;&quot;&gt;Evaluación global de la relevancia, factibilidad y sostenibilidad de un proyecto antes de tomar la decisión de ejecutar el proyecto. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Evaluación ex - post</CONCEPT>
+        <DEFINITION>&lt;p&gt;Evaluación realizada después de haber terminado el proyecto. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Fin</CONCEPT>
+        <DEFINITION>&lt;p&gt;Es el objetivo más amplio u objetivo de desarrollo que contribuye a un proyecto &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Gestión del ciclo de un proyecto</CONCEPT>
+        <DEFINITION>&lt;p&gt;Método de gestión de fases del ciclo de un Proyecto. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Grupo objetivo</CONCEPT>
+        <DEFINITION>&lt;p&gt;Es el grupo o población específico a quienes beneficiará el proyecto o programa. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Identificación</CONCEPT>
+        <DEFINITION>&lt;p style=&quot;text-align: justify;&quot;&gt;Primera elaboración de una idea de proyecto, expresada globalmente en objetivos, resultados y actividades con el fin de determinar si se debe proceder o no al estudio de factibilidad del proyecto. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Producto</CONCEPT>
+        <DEFINITION>&lt;p&gt;Son los resultados que pueden ser garantizados por la ejecución del proyecto.&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Programa</CONCEPT>
+        <DEFINITION>&lt;p style=&quot;text-align: justify;&quot;&gt;Es un grupo de proyectos o servicios relacionados, dirigidos hacia el logro de objetivos similares. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Proyecto</CONCEPT>
+        <DEFINITION>&lt;p style=&quot;text-align: justify;&quot;&gt;Conjunto de actividades diseñadas para lograr ciertos objetivos específicos a un costo dado y dentro de un período de tiempo determinado. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Seguimiento</CONCEPT>
+        <DEFINITION>&lt;p style=&quot;text-align: justify;&quot;&gt;Supervisión continúa de la implementación de un proyecto para salvaguardar que los insumos, actividades, productos y supuestos están ejecutándose de acuerdo con el diseño.&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Tasa interna de retorno (TIR)</CONCEPT>
+        <DEFINITION>&lt;p style=&quot;text-align: justify;&quot;&gt;Tasa de interés a la cual el valor presente de los ingresos es igual al valor presente de los egresos. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>Valor presente neto (VAN)</CONCEPT>
+        <DEFINITION>&lt;p style=&quot;text-align: justify;&quot;&gt;Valor presente de los ingresos menos valor presente de los egresos, calculado a una tasa de oportunidad seleccionada. &lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    </ENTRIES>
+  </INFO>
+</GLOSSARY>
